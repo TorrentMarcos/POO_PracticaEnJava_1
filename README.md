@@ -4,7 +4,7 @@
 
 • [INFORMACIÓN GENERAL]:
 
-POO - Práctica realizada en JAVA con IDE Apache Netbeans.
+POO - Práctica N°1 realizada en JAVA con IDE Apache Netbeans.
 
 --------------------------------------------------------
 
