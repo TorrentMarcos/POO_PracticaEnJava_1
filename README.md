@@ -1,12 +1,14 @@
 --------------------------------------------------------
-¦ POO - Práctica en JAVA (1) [LÉEME] ¦
+¦ POO - Práctica N°1 en JAVA [LÉEME] ¦
 --------------------------------------------------------
 
-• INFORMACIÓN GENERAL:
+• **Información general:**
 
 POO - Práctica N°1 realizada en JAVA con IDE Apache Netbeans.
 
-  » CONCEPTOS CLAVE A MI ENTENDER:
+![practica1java](https://user-images.githubusercontent.com/101758311/195222705-9543bae5-4427-43e1-92ab-29ef602b1312.png)
+
+  » **Conceptos clave:**
 
     - Scanners.
     - Arrays.
