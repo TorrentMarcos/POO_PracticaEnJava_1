@@ -19,6 +19,8 @@ POO - Práctica N°1 realizada en JAVA con IDE Apache Netbeans.
     - Máximos y mínimos.
     - Clase 'Math'.
   
+  **« Ejercicios adjuntos en formato PDF »**
+  
 --------------------------------------------------------
 
 ~ Marcos Torrent.
